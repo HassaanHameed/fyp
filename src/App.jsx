@@ -1,4 +1,5 @@
 import React from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import AssistantSetup from "./components/assistantSetup/AssistantSetup";
 import BlogPage from "./components/blogPage/BlogPage";
 import BlogPosts from "./components/blogPosts/BlogPosts";
@@ -23,26 +24,41 @@ import TopFreelancers from "./components/topFreelancers/TopFreelancers";
 const App = () => {
   return (
     <>
-      <Header />
-      {/* <Dashboard />
-      <Category />
-      <Featured />
-      <AssistantSetup />
-      <Entrepreneurs />
-      <TopFreelancers />
-      <PricingPlan />
-      <BlogPosts /> */}
-      {/* <Profile /> */}
-      {/* <Chatting /> */}
-      {/* <BlogPage /> */}
-      {/* <FreelanceDetails /> */}
-      {/* <ProjectAccept /> */}
-      {/* <ProjectBidding /> */}
-      {/* <FreelancerList /> */}
-      {/* <PostJobOnline /> */}
-      <Dispute />
-      <Followers />
-      <Footer />
+      <BrowserRouter>
+        <Header />
+        <Routes>
+          <Route
+            path="/"
+            element={
+              <>
+                <Dashboard />
+                <Category />
+                <Featured />
+                <AssistantSetup />
+                <Entrepreneurs />
+                <TopFreelancers />
+                <PricingPlan />
+                <BlogPosts />
+              </>
+            }
+          />
+          <Route exact path="/profile" element={<Profile />} />
+          <Route exact path="/chatting" element={<Chatting />} />
+          <Route exact path="/blogpage" element={<BlogPage />} />
+          <Route
+            exact
+            path="/freelancedetails"
+            element={<FreelanceDetails />}
+          />
+          <Route exact path="/projectaccept" element={<ProjectAccept />} />
+          <Route exact path="/projectbidding" element={<ProjectBidding />} />
+          <Route exact path="/freelancerlist" element={<FreelancerList />} />
+          <Route exact path="/postjobonline" element={<PostJobOnline />} />
+          <Route exact path="/dispute" element={<Dispute />} />
+        </Routes>
+        <Followers />
+        <Footer />
+      </BrowserRouter>
     </>
   );
 };
