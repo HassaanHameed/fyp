@@ -3,7 +3,10 @@ import React from "react";
 const Header = () => {
   return (
     <>
-      <header className="index-nav">
+      <header
+        className="index-nav"
+        style={{ background: `rgba(0, 181, 188, 0.9)` }}
+      >
         <div className="container-fluid">
           <div className="row">
             <div className="col-lg-8 col-sm-12 col-md-8 primary-menu order-sm-1 order-2">
