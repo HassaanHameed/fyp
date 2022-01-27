@@ -19,6 +19,8 @@ import PricingPlan from "./components/pricingPlan/PricingPlan";
 import Profile from "./components/profile/Profile";
 import ProjectAccept from "./components/projectAccept/ProjectAccept";
 import ProjectBidding from "./components/projectBidding/ProjectBidding";
+import SignIn from "./components/signIn/SignIn";
+import SignUp from "./components/signUp/SignUp";
 import TopFreelancers from "./components/topFreelancers/TopFreelancers";
 
 const App = () => {
@@ -44,6 +46,8 @@ const App = () => {
           />
           <Route exact path="/profile" element={<Profile />} />
           <Route exact path="/chatting" element={<Chatting />} />
+          <Route exact path="/signin" element={<SignIn />} />
+          <Route exact path="/join" element={<SignUp />} />
           <Route exact path="/blogpage" element={<BlogPage />} />
           <Route
             exact

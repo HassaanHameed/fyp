@@ -1,5 +1,7 @@
+import { Typography } from "@mui/material";
 import React, { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
+
 const Header = () => {
   return (
     <>
@@ -13,10 +15,7 @@ const Header = () => {
               <nav className="navbar navbar-expand-lg">
                 <div className="navbar-brand">
                   <Link className="logo js-scroll-trigger" to="/">
-                    <img src="img/logo.png" alt="logo" />
-                  </Link>
-                  <Link className="s-logo js-scroll-trigger" to="/">
-                    <img src="img/logo2.png" alt="logo" />
+                    <Typography variant="h4">Bloclance</Typography>
                   </Link>
                 </div>
                 <button
@@ -64,7 +63,7 @@ const Header = () => {
 
                         <li className="nav-item">
                           <Link to="/projectbidding" className="dropdown-item">
-                            Project bidding
+                            Bidding
                           </Link>
                         </li>
                       </ul>
@@ -77,7 +76,7 @@ const Header = () => {
                         aria-haspopup="true"
                         aria-expanded="false"
                       >
-                        Hire Freelancer
+                        Hire
                       </a>
                       <ul className="dropdown-menu">
                         <li className="nav-item">
@@ -117,6 +116,26 @@ const Header = () => {
                         to="/blogpage"
                       >
                         Blog
+                      </NavLink>
+                    </li>
+                    <li className="nav-item dropdown menu-padding">
+                      <NavLink
+                        className={({ isActive }) =>
+                          isActive ? "active" : "nav-link"
+                        }
+                        to="/signin"
+                      >
+                        Sign in
+                      </NavLink>
+                    </li>
+                    <li className="nav-item dropdown menu-padding">
+                      <NavLink
+                        className={({ isActive }) =>
+                          isActive ? "active" : "nav-link"
+                        }
+                        to="/join"
+                      >
+                        Join
                       </NavLink>
                     </li>
                     <li className="nav-item">
