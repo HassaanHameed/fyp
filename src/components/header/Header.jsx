@@ -14,8 +14,15 @@ const Header = () => {
             <div className="col-lg-8 col-sm-12 col-md-8 primary-menu order-sm-1 order-2">
               <nav className="navbar navbar-expand-lg">
                 <div className="navbar-brand">
-                  <Link className="logo js-scroll-trigger" to="/">
-                    <Typography variant="h4">Bloclance</Typography>
+                  <Link
+                    to="/"
+                    style={{
+                      color: "white",
+                      fontSize: "25px",
+                      fontWeight: "bold",
+                    }}
+                  >
+                    Bloclance
                   </Link>
                 </div>
                 <button
