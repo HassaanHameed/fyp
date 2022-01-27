@@ -15,7 +15,6 @@ import FreelancerList from "./components/freelancerList/FreelancerList";
 import FreelanceDetails from "./components/freelaneDetails/FreelanceDetails";
 import Header from "./components/header/Header";
 import PostJobOnline from "./components/postJobOnline/PostJobOnline";
-import PricingPlan from "./components/pricingPlan/PricingPlan";
 import Profile from "./components/profile/Profile";
 import ProjectAccept from "./components/projectAccept/ProjectAccept";
 import ProjectBidding from "./components/projectBidding/ProjectBidding";
@@ -39,7 +38,6 @@ const App = () => {
                 <AssistantSetup />
                 <Entrepreneurs />
                 <TopFreelancers />
-                <PricingPlan />
                 <BlogPosts />
               </>
             }

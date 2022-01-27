@@ -68,32 +68,29 @@ const Footer = () => {
                 <div className="row">
                   <div className="col-lg-3 col-md-6 col-sm-12">
                     <div className="footer-widget">
-                      <h5 className="widget-title">Browse Categories</h5>
+                      <h5 className="widget-title">Browse</h5>
                       <ul>
                         <li>
-                          <a href="#">WordPress Themes</a>
+                          <a href="#">Post Job</a>
                         </li>
                         <li>
-                          <a href="#">HTML5 Templates</a>
+                          <a href="#">Get Task</a>
                         </li>
                         <li>
-                          <a href="#">UI Design (PSD)</a>
+                          <a href="#">Posts</a>
                         </li>
                         <li>
-                          <a href="#">Free Downloads</a>
-                        </li>
-                        <li>
-                          <a href="#">1 Click Install</a>
+                          <a href="#">Community</a>
                         </li>
                       </ul>
                     </div>
                   </div>
                   <div className="col-lg-3 col-md-6 col-sm-12">
                     <div className="footer-widget">
-                      <h5 className="widget-title">How To Buy</h5>
+                      <h5 className="widget-title">How To Start</h5>
                       <ul>
                         <li>
-                          <a href="#">Explore Products</a>
+                          <a href="#">Explore Environment</a>
                         </li>
                         <li>
                           <a href="#">Create Account</a>
@@ -115,19 +112,19 @@ const Footer = () => {
                       <h5 className="widget-title">Features</h5>
                       <ul>
                         <li>
-                          <a href="#">1 Click Install</a>
+                          <a href="#">Blockchain technology</a>
                         </li>
                         <li>
-                          <a href="#">Custom Illustration</a>
+                          <a href="#">Digital currency</a>
                         </li>
                         <li>
-                          <a href="#">Stock Footage</a>
+                          <a href="#">Transparency</a>
                         </li>
                         <li>
-                          <a href="#">Mockups</a>
+                          <a href="#">Security</a>
                         </li>
                         <li>
-                          <a href="#">Mobile First</a>
+                          <a href="#">Mobile responsive</a>
                         </li>
                       </ul>
                     </div>
