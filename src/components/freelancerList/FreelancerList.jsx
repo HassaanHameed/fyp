@@ -20,7 +20,7 @@ const FreelancerList = () => {
                     </button>
                   </li>
                   <li>
-                    <form action="https://premiumtheme.org/html/chakri/browse-freelancer-grid.html">
+                    <form>
                       <button
                         className="view-btn grid-view"
                         id="grid"

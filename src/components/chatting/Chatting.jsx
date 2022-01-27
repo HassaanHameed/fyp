@@ -688,7 +688,7 @@ const Chatting = () => {
                     </div>
                   </div>
                   <div className="chat-panel-footer">
-                    <form action="https://premiumtheme.org/html/chakri/index.php">
+                    <form>
                       <div className="input-group form-material">
                         <input
                           type="text"

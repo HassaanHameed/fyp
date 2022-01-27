@@ -11,7 +11,7 @@ const Dashboard = () => {
                 <div className="hero-details">
                   <div className="hero-title">
                     <h1>
-                      Introducing Chakri
+                      Introducing bloclance
                       <br /> Market Place Corporate
                     </h1>
                     <div className="hero-text">

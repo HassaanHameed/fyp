@@ -250,10 +250,6 @@ const ProjectAccept = () => {
                     </div>
                     <div className="award-details">
                       <p>A proposal has not yet been provided</p>
-                      <img
-                        src="../../../www.premiumtheme.org/html/chakri/img/flag.html"
-                        alt=""
-                      />
                     </div>
                   </div>
                 </div>

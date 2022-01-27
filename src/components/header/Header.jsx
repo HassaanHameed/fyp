@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 const Header = () => {
-  const [headerMenuActive, setHeaderMenuActive] = useState(false);
   return (
     <>
       <header

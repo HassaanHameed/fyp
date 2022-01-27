@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <>
@@ -170,8 +170,8 @@ const Footer = () => {
               <div className="copyright-area">
                 <div className="copyright-wrapper">
                   <div className="copyright-text">
-                    © 2019 Chakri | Developed by{" "}
-                    <a href="https://premiumtheme.org/">PremiumTheme.org</a>
+                    © 2019 bloclance | Developed by
+                    <Link to="/">Bloclance.org</Link>
                   </div>
                   <div className="footer-nav">
                     <ul id="menu-footer-nav" className="footer_nav">
