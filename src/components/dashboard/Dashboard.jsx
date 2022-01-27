@@ -11,14 +11,14 @@ const Dashboard = () => {
                 <div className="hero-details">
                   <div className="hero-title">
                     <h1>
-                      Introducing bloclance
-                      <br /> Market Place Corporate
+                      Introducing Bloclance
+                      <br /> Market Place
                     </h1>
                     <div className="hero-text">
                       <p>
-                        Lorem Ipsum is simply dummy text of the printing and
-                        typesetting industry.
-                        <br /> Lorem Ipsum has been the industry's standard
+                        BlockChain based marketplace where you find and post the
+                        job
+                        <br /> Lets come with Digital world and payment gateway
                       </p>
                     </div>
                   </div>

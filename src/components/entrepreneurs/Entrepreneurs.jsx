@@ -70,13 +70,10 @@ const Entrepreneurs = () => {
                       <div className="testimonial-items">
                         <div className="testimonial-item">
                           <div className="author-image">
-                            <img
-                              src="img/testimonial/testimonial-1.jpg"
-                              alt=""
-                            />
+                            <img src="img/testimonial/abdullah.jpeg" alt="" />
                           </div>
                           <div className="author-details">
-                            <h6 className="name">Charli Brown</h6>
+                            <h6 className="name">Abdullah Younus</h6>
                             <ul className="author-social">
                               <li>
                                 <a href="#">
@@ -109,13 +106,10 @@ const Entrepreneurs = () => {
                       <div className="testimonial-items">
                         <div className="testimonial-item">
                           <div className="author-image">
-                            <img
-                              src="img/testimonial/testimonial-2.jpg"
-                              alt=""
-                            />
+                            <img src="img/testimonial/zain.jpeg" alt="" />
                           </div>
                           <div className="author-details">
-                            <h6 className="name">John Deo</h6>
+                            <h6 className="name">Zain ul Abideen</h6>
                             <ul className="author-social">
                               <li>
                                 <a href="#">

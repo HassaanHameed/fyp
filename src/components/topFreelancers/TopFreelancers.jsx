@@ -23,11 +23,15 @@ const TopFreelancers = () => {
             <div className="col-lg-4 col-md-6 col-sm-12">
               <article className="freelancers freelancer-grid-view">
                 <div className="feature-image">
-                  <img src="img/freelancer/freelancer-1.jpg" alt="" />
-                  <span className="online" />
+                  <img
+                    style={{ width: "150px", height: "150px" }}
+                    src="img/freelancer/hassaan.jpg"
+                    alt=""
+                  />
+                  {/* <span className="online" /> */}
                 </div>
                 <div className="name-designation">
-                  <h5 className="name">Mr. Robert</h5>
+                  <h5 className="name">Hassaan Hameed</h5>
                   <h5 className="designation">UI/UX Designer </h5>
                 </div>
                 <div className="rate-hire">
@@ -107,11 +111,15 @@ const TopFreelancers = () => {
             <div className="col-lg-4 col-md-6 col-sm-12">
               <article className="freelancers freelancer-grid-view">
                 <div className="feature-image">
-                  <img src="img/freelancer/freelancer-2.jpg" alt="" />
-                  <span className="online" />
+                  <img
+                    style={{ width: "150px" }}
+                    src="img/freelancer/zain.jpeg"
+                    alt=""
+                  />
+                  {/* <span className="online" /> */}
                 </div>
                 <div className="name-designation">
-                  <h5 className="name">Rafsan Prodhan</h5>
+                  <h5 className="name">zain ul abideen</h5>
                   <h5 className="designation">Web developer </h5>
                 </div>
                 <div className="rate-hire">
@@ -191,11 +199,15 @@ const TopFreelancers = () => {
             <div className="col-lg-4 col-md-6 col-sm-12">
               <article className="freelancers freelancer-grid-view">
                 <div className="feature-image">
-                  <img src="img/freelancer/freelancer-3.jpg" alt="" />
-                  <span className="online" />
+                  <img
+                    style={{ width: "150px" }}
+                    src="img/freelancer/abdullah.jpeg"
+                    alt=""
+                  />
+                  {/* <span className="online" /> */}
                 </div>
                 <div className="name-designation">
-                  <h5 className="name">Charli Brown</h5>
+                  <h5 className="name">Abdullah Younus</h5>
                   <h5 className="designation">Motion Artist</h5>
                 </div>
                 <div className="rate-hire">

@@ -13,7 +13,7 @@ const Profile = () => {
               <div className="col-sm-12 col-md-5 col-lg-4">
                 <div className="freelancer-profile-sidebar">
                   <div className="profile-image">
-                    <img src="img/freelancer/Profile-Image1.jpg" alt="" />
+                    <img src="img/freelancer/hassaan.jpg" alt="" />
                   </div>
                   <div className="profile-info">
                     <div className="hourly-rate">
@@ -147,7 +147,7 @@ const Profile = () => {
                 <div className="freelancer-info">
                   <div className="freelancer-detail">
                     <h4 className="freelancer-name">
-                      Charli Brown{" "}
+                      Hassaan Hameed
                       <span className="online">
                         <i className="fas fa-circle" /> Online
                       </span>

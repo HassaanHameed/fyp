@@ -67,7 +67,7 @@ const BlogPage = () => {
                     </div>
                     <div className="blog-details">
                       <ul className="post-meta">
-                        <li>Jan. 05. 2019</li>
+                        <li>Jan. 05. 2021</li>
                         <li>
                           <a href="#" className="tags">
                             ios app
@@ -95,7 +95,7 @@ const BlogPage = () => {
                     </div>
                     <div className="blog-details">
                       <ul className="post-meta">
-                        <li>Nov. 05. 2019</li>
+                        <li>Nov. 05. 2021</li>
                         <li>
                           <a href="#" className="tags">
                             Fashion
@@ -121,7 +121,7 @@ const BlogPage = () => {
                     </div>
                     <div className="blog-details">
                       <ul className="post-meta">
-                        <li>Jan. 05. 2019</li>
+                        <li>Jan. 05. 2021</li>
                         <li>
                           <a href="#" className="tags">
                             ios app
@@ -149,7 +149,7 @@ const BlogPage = () => {
                     </div>
                     <div className="blog-details">
                       <ul className="post-meta">
-                        <li>Nov. 05. 2019</li>
+                        <li>Nov. 05. 2021</li>
                         <li>
                           <a href="#" className="tags">
                             Travel
@@ -177,7 +177,7 @@ const BlogPage = () => {
                     </div>
                     <div className="blog-details">
                       <ul className="post-meta">
-                        <li>Nov. 05. 2019</li>
+                        <li>Nov. 05. 2021</li>
                         <li>
                           <a href="#" className="tags">
                             Music
@@ -203,7 +203,7 @@ const BlogPage = () => {
                     </div>
                     <div className="blog-details">
                       <ul className="post-meta">
-                        <li>Nov. 05. 2019</li>
+                        <li>Nov. 05. 2021</li>
                         <li>
                           <a href="#" className="tags">
                             Travel
@@ -231,7 +231,7 @@ const BlogPage = () => {
                     </div>
                     <div className="blog-details">
                       <ul className="post-meta">
-                        <li>Nov. 05. 2019</li>
+                        <li>Nov. 05. 2021</li>
                         <li>
                           <a href="#" className="tags">
                             Music
@@ -257,7 +257,7 @@ const BlogPage = () => {
                     </div>
                     <div className="blog-details">
                       <ul className="post-meta">
-                        <li>Nov. 05. 2019</li>
+                        <li>Nov. 05. 2021</li>
                         <li>
                           <a href="#" className="tags">
                             Fashion
@@ -361,7 +361,7 @@ const BlogPage = () => {
                       </h6>
                       <div className="post-meta">
                         <ul>
-                          <li className="date">01 April 2019</li>
+                          <li className="date">01 April 2021</li>
                           <li>
                             <i className="far fa-heart" /> 135
                           </li>
@@ -384,7 +384,7 @@ const BlogPage = () => {
                       </h6>
                       <div className="post-meta">
                         <ul>
-                          <li className="date">01 April 2019</li>
+                          <li className="date">01 April 2021</li>
                           <li>
                             <i className="far fa-heart" /> 120
                           </li>
@@ -407,7 +407,7 @@ const BlogPage = () => {
                       </h6>
                       <div className="post-meta">
                         <ul>
-                          <li className="date">03 April 2019</li>
+                          <li className="date">03 April 2021</li>
                           <li>
                             <i className="far fa-heart" /> 103
                           </li>
@@ -440,7 +440,7 @@ const BlogPage = () => {
                     </span>
                     <p>
                       <a href="#" className="name">
-                        Charli Brown
+                        Abdullah Younus
                       </a>{" "}
                       <i>on</i> Building a New Successful Hostel Campaign
                     </p>

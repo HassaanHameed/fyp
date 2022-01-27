@@ -192,8 +192,12 @@ const Header = () => {
                       aria-haspopup="true"
                       aria-expanded="false"
                     >
-                      <img src="img/user.png" alt="" />
-                      <span className="online" />
+                      <img
+                        style={{ width: "40px", height: "40px" }}
+                        src="img/hassaan.jpg"
+                        alt=""
+                      />
+                      {/* <span className="online" /> */}
                     </a>
                     <ul className="dropdown-menu">
                       <li className="nav-item">
@@ -379,8 +383,9 @@ const Header = () => {
                             </div>
                             <div className="notification-details">
                               <p className="notification-text">
-                                <b>John Deo</b> released a $450.00 USD milestone
-                                payment for project <b>Website Development</b>
+                                <b>Zain ul Abideen</b> released a $450.00 USD
+                                milestone payment for project{" "}
+                                <b>Website Development</b>
                               </p>
                               <p className="notification-time">
                                 About 40 minutes ago

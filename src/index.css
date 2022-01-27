@@ -1220,6 +1220,7 @@ body.modal-open {
 .author-image img {
   border-radius: 100%;
   margin-bottom: 10px;
+  width: 150px;
 }
 
 .author-details .name {

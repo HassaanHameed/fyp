@@ -10,7 +10,7 @@ const Category = () => {
               <div className="titles">
                 <h2 className="titles__main-title">Category</h2>
                 <h6 className="titles__sub-title">
-                  Fringilla risus at, imperdiet turpis. Pellentesque elementum
+                  Community where you can find the relevant work
                 </h6>
               </div>
             </div>

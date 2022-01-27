@@ -49,11 +49,15 @@ const FreelancerList = () => {
                 <article className="freelancers freelancer-list-view">
                   <div className="left-align">
                     <div className="feature-image">
-                      <img src="img/freelancer/freelancer-1.jpg" alt="" />
+                      <img
+                        style={{ width: "100px" }}
+                        src="img/freelancer/hassaan.jpg"
+                        alt=""
+                      />
                       <span className="online" />
                     </div>
                     <div className="name-designation">
-                      <h5 className="name">Mr. Robert</h5>
+                      <h5 className="name">Hassaan Hameed</h5>
                       <h5 className="designation">UI/UX Designer </h5>
                     </div>
                     <div className="contact-details">
@@ -134,11 +138,15 @@ const FreelancerList = () => {
                 <article className="freelancers freelancer-list-view">
                   <div className="left-align">
                     <div className="feature-image">
-                      <img src="img/freelancer/freelancer-2.jpg" alt="" />
+                      <img
+                        style={{ width: "100px" }}
+                        src="img/freelancer/zain.jpeg"
+                        alt=""
+                      />
                       <span className="online" />
                     </div>
                     <div className="name-designation">
-                      <h5 className="name">Rafsan Prodhan</h5>
+                      <h5 className="name">zain ul abideen</h5>
                       <h5 className="designation">Web Developer</h5>
                     </div>
                     <div className="contact-details">
@@ -219,11 +227,15 @@ const FreelancerList = () => {
                 <article className="freelancers freelancer-list-view">
                   <div className="left-align">
                     <div className="feature-image">
-                      <img src="img/freelancer/freelancer-3.jpg" alt="" />
+                      <img
+                        style={{ width: "100px" }}
+                        src="img/freelancer/abdullah.jpeg"
+                        alt=""
+                      />
                       <span className="online" />
                     </div>
                     <div className="name-designation">
-                      <h5 className="name">Rafsan Prodhan</h5>
+                      <h5 className="name">abdullah younus</h5>
                       <h5 className="designation">Web Developer</h5>
                     </div>
                     <div className="contact-details">
@@ -304,11 +316,15 @@ const FreelancerList = () => {
                 <article className="freelancers freelancer-list-view">
                   <div className="left-align">
                     <div className="feature-image">
-                      <img src="img/freelancer/freelancer-7.jpg" alt="" />
+                      <img
+                        style={{ width: "100px" }}
+                        src="img/freelancer/freelancer-7.jpg"
+                        alt=""
+                      />
                       <span className="online" />
                     </div>
                     <div className="name-designation">
-                      <h5 className="name">Rafsan Prodhan</h5>
+                      <h5 className="name">stephen</h5>
                       <h5 className="designation">Web Developer</h5>
                     </div>
                     <div className="contact-details">

@@ -10,7 +10,8 @@ const Featured = () => {
               <div className="titles">
                 <h2 className="titles__main-title">Featured Jobs</h2>
                 <h6 className="titles__sub-title">
-                  Pellentesque elementum libero enim, eget gravida nunc laoreet
+                  Find the job that suits you best and ride with Digital
+                  currency
                 </h6>
               </div>
             </div>
@@ -213,7 +214,7 @@ const Featured = () => {
               <div className="titles">
                 <h2 className="titles__main-title">Featured Jobs</h2>
                 <h6 className="titles__sub-title">
-                  Pellentesque elementum libero enim, eget gravida nunc laoreet
+                  Big countries where our services are growing day by day
                 </h6>
               </div>
             </div>

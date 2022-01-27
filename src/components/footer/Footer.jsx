@@ -20,8 +20,6 @@ const Footer = () => {
                       {/* Begin Mailchimp Signup Form */}
                       <div id="mc_embed_signup">
                         <form
-                          action="https://awardorb.us17.list-manage.com/subscribe/post?u=40bdb138dfb2d7c92d79ef6cb&id=78778cd267"
-                          method="post"
                           id="mc-embedded-subscribe-form"
                           name="mc-embedded-subscribe-form"
                           className="validate"
@@ -33,7 +31,6 @@ const Footer = () => {
                               <input
                                 placeholder="Type your Email"
                                 type="email"
-                                defaultValue
                                 name="EMAIL"
                                 className="required email"
                                 id="mce-EMAIL"
@@ -51,7 +48,7 @@ const Footer = () => {
                             </div>
                             <div className="clear">
                               <button
-                                type="submit"
+                                type="button"
                                 id="mc-embedded-subscribe"
                                 name="subscribe"
                                 className="btn-search-pt button"
@@ -170,7 +167,7 @@ const Footer = () => {
               <div className="copyright-area">
                 <div className="copyright-wrapper">
                   <div className="copyright-text">
-                    © 2019 bloclance | Developed by
+                    © 2021 bloclance | Developed by&nbsp;
                     <Link to="/">Bloclance.org</Link>
                   </div>
                   <div className="footer-nav">

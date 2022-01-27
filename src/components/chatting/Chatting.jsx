@@ -570,7 +570,7 @@ const Chatting = () => {
                 <div className="chat-panel">
                   <div className="chat-header">
                     <p className="loading">Loading earlier messages..</p>
-                    <p className="time">2:14pm | 5 April 2019</p>
+                    <p className="time">2:14pm | 5 April 2021</p>
                   </div>
                   <div className="chat">
                     <div className="chat-avatar">
@@ -580,7 +580,11 @@ const Chatting = () => {
                         data-placement="right"
                         data-original-title="Amazingsoftware"
                       >
-                        <img src="img/chatting/user15.jpg" alt="" />
+                        <img
+                          style={{ width: "50px" }}
+                          src="img/chatting/hassaan.jpg"
+                          alt=""
+                        />
                       </a>
                     </div>
                     <div className="chat-body">
@@ -623,7 +627,11 @@ const Chatting = () => {
                         data-placement="right"
                         data-original-title="Amazingsoftware"
                       >
-                        <img src="img/chatting/user15.jpg" alt="" />
+                        <img
+                          style={{ width: "50px" }}
+                          src="img/chatting/hassaan.jpg"
+                          alt=""
+                        />
                       </a>
                     </div>
                     <div className="chat-body">
@@ -677,7 +685,11 @@ const Chatting = () => {
                         data-placement="right"
                         data-original-title="Amazingsoftware"
                       >
-                        <img src="img/chatting/user15.jpg" alt="" />
+                        <img
+                          style={{ width: "50px" }}
+                          src="img/chatting/hassaan.jpg"
+                          alt=""
+                        />
                       </a>
                     </div>
                     <div className="chat-body">

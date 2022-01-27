@@ -86,7 +86,7 @@ const Dispute = () => {
                     <div className="message-title clearfix">
                       <h5>Rafsan Jany P.</h5>
                       <img src="img/dispute/flag7.png" alt="flag" />
-                      <span>February 14, 2019 at 12:05 + 6</span>
+                      <span>February 14, 2021 at 12:05 + 6</span>
                     </div>
                     <div className="dispute-message">
                       <span>Done</span>
@@ -99,7 +99,7 @@ const Dispute = () => {
                     <div className="message-title clearfix">
                       <h5>Sahinur Salafee</h5>
                       <img src="img/dispute/flag.png" alt="flag" />
-                      <span>February 27, 2019 at 2:05 + 6</span>
+                      <span>February 27, 2021 at 2:05 + 6</span>
                     </div>
                     <div className="dispute-message">
                       <span>Done</span>

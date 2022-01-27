@@ -114,7 +114,7 @@ const ProjectAccept = () => {
                   <div className="feature-image">
                     <img src="img/employer/employer1.jpg" alt="" />
                     <div className="name-designation">
-                      <h5 className="name">Rafsan Prodhan</h5>
+                      <h5 className="name">zain ul abideen</h5>
                       <h5 className="designation">Software House </h5>
                     </div>
                     <span className="online" />

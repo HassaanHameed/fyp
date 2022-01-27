@@ -27,7 +27,7 @@ const BlogPosts = () => {
                 </div>
                 <div className="blog-details">
                   <ul className="post-meta">
-                    <li>Nov. 05. 2019</li>
+                    <li>Nov. 05. 2021</li>
                     <li>
                       <a href="#" className="tags">
                         Fashion
@@ -53,7 +53,7 @@ const BlogPosts = () => {
                 </div>
                 <div className="blog-details">
                   <ul className="post-meta">
-                    <li>April. 08. 2019</li>
+                    <li>April. 08. 2021</li>
                     <li>
                       <a href="#" className="tags">
                         Music
@@ -79,7 +79,7 @@ const BlogPosts = () => {
                 </div>
                 <div className="blog-details">
                   <ul className="post-meta">
-                    <li>May.05.2019</li>
+                    <li>May.05.2021</li>
                     <li>
                       <a href="#" className="tags">
                         Fashion
